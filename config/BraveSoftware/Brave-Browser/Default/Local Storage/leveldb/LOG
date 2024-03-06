@@ -1,0 +1,5 @@
+2024/03/06-17:46:56.129 4 Creating DB /home/hades/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb since it was missing.
+2024/03/06-17:46:57.230 4 Reusing MANIFEST /home/hades/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/03/06-17:49:09.184 6 Level-0 table #5: started
+2024/03/06-17:49:09.194 6 Level-0 table #5: 58265 bytes OK
+2024/03/06-17:49:09.201 6 Delete type=0 #3
